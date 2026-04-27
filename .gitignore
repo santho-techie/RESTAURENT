@@ -1,6 +1,7 @@
 *.class
 *.log
+*.pbix
+last_order_id.txt
 Thumbs.db
 .DS_Store
 ~$*.xlsx
-*.pbix
